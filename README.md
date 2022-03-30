@@ -2,7 +2,7 @@
 * 덕성여자대학교 20학번 소프트웨어학과 재학중입니다!
 * 백준 https://www.acmicpc.net/user/dlthdud0112
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-comlinee)](https://github.com/jordan-comlinee/github-readme-stats)
 
 <!--
 **jordan-comlinee/jordan-comlinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
