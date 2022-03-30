@@ -1,5 +1,5 @@
 # Hi there!🥰
-* 덕성여자대학교 20학번 소프트웨어학과 재학중입니다!
+
 * 백준 https://www.acmicpc.net/user/dlthdud0112
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-comlinee)](https://github.com/jordan-comlinee/github-readme-stats)
