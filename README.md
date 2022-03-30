@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there!🥰
+* 덕성여자대학교 20학번 소프트웨어학과 재학중입니다!
+* 백준 https://www.acmicpc.net/user/dlthdud0112
 
 <!--
 **jordan-comlinee/jordan-comlinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
