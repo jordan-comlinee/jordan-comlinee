@@ -1,8 +1,5 @@
-# Hi there!🥰
 
-* 백준 https://www.acmicpc.net/user/dlthdud0112
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SoYoung%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SoYoung%20Lee&fontSize=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-comlinee)](https://github.com/jordan-comlinee/github-readme-stats)
 
