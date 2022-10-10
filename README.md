@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SoYoung%20Lee&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
 
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
 
   [![jordan-comlinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-comlinee)](https://github.com/jordan-comlinee/github-readme-stats)
   <br><br><br>
