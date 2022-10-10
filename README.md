@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:666666&height=300&section=header&text=SoYoung%20Lee&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlign=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000000,100:002957&height=300&section=header&text=SoYoung%20Lee&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlign=30)
 
   <!--color=timeGradient-->
   <br><br><br><br><br><br>
@@ -11,5 +11,5 @@
 
    <br><br><br><br><br><br>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:000000&height=100&section=footer&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000000,100:002957&height=100&section=footer&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
 </div>
