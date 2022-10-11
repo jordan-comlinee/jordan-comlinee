@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000000,100:002957&height=300&section=header&text=SoYoung%20Lee&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlign=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:000000,100:002957&height=300&section=header&text=Welcome!&desc=Soyoung's%20Github&descAlign=35&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlign=30)
 
   <!--color=timeGradient-->
   <br><br><br><br><br><br>
