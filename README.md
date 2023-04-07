@@ -11,9 +11,8 @@
   
  
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jordan-comlinee&show_icons=true&hide_border=true&theme=transparent&icon_color=000000) 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-comlinee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jordan-comlinee&show_icons=true&hide_border=true&theme=transparent&icon_color=000000) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-comlinee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/metleeha)
 
 <br>
 
