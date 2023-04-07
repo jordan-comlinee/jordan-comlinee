@@ -5,7 +5,7 @@
 
 <br>
  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Soyoung's+GITHUB&center=True&color=000000&repeat=false&font=Playfair+Display)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Soyoung's+GITHUB&center=True&color=000000&font=Playfair+Display)](https://git.io/typing-svg)
 
 <br>
   
