@@ -1,10 +1,9 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header!&descAlign=35&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlign=30)
-
-
-<br>
  
 ## Hi! Welcome to Soyoung's Github🖐️ 
+##### I'm Interested in Anrdoid!
+
 <br>
 - 2020.03~2024.02 덕성여자대학교 소프트웨어학과
 <br> <br> <br> <br>
@@ -35,6 +34,10 @@
 | Embedded HAR Student Competition **Best Design** | IEEE Embedded System Week | 2022.10.14 |
 
 <br> <br>
+
+### My Projects
+<br><br>
+
 ### My BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlthdud0112)](https://solved.ac/dlthdud0112)<br/>
