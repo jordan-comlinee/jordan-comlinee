@@ -2,7 +2,8 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header!&descAlign=35&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlign=30)
  
 ## Hi! Welcome to Soyoung's Github🖐️ 
-##### I'm Interested in Anrdoid!
+#### I want to be a specialist in Android Programming!
+
 
 <br>
 - 2020.03~2024.02 덕성여자대학교 소프트웨어학과
