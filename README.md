@@ -7,13 +7,15 @@
 ##### 🪴식물을 키우는 것을 좋아해요.
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/jordan-comlinee?pet-id=644090050256059175"
+    src="https://render.gitanimals.org/lines/jordan-comlinee"
     width="600"
-    height="300"
+    height="120"
   />
 </a>
+  
   
 <br><br><br>
 
