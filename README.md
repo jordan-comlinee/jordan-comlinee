@@ -2,19 +2,22 @@
 
 ## Hi! Welcome to Soyoung's Github🖐️ 
 
-##### 🥨DRY(Don’t Repeat Yourself)한 코드를 좋아해요.
+##### 🥨 I like DRY (Don’t Repeat Yourself) code.
 
-##### 🪴식물을 키우는 것을 좋아해요.
+##### 🐵 I create great synergy through communication and collaboration.
+
+##### 🪴Growing plants brings me joy.
 
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jordan-comlinee&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jordan-comlinee"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/jordan-comlinee?pet-id=644090943294683678"
+    width="800"
+    height="160"
   />
 </a>
+  
   
   
 <br><br><br>
@@ -34,7 +37,7 @@
 
 #### Programs
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
 
 <br> <br><br>
 ### I earned...
@@ -50,6 +53,9 @@
 <br> <br>
 
 ### My Projects
+
+* [URECAR](https://github.com/Half-GA/urecar_android)
+* [당신의 안식](https://github.com/BeYourEyes)
 <br><br>
 
 ### My BOJ
