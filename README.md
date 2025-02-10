@@ -61,7 +61,6 @@
 ### My BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlthdud0112)](https://solved.ac/dlthdud0112)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-comlinee&show_icons=true&theme=transparent)
 
 <br>
 
