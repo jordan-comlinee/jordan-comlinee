@@ -49,6 +49,7 @@
 | 졸업전시회 **우수상** | 덕성여자대학교 | 2023.09.15 |
 | 배리어프리 앱 개발 콘테스트 **대상** | 과학기술정보통신부장관 | 2024.02.21 |
 | Embedded HAR Student Competition **Best Design** | IEEE Embedded System Week | 2022.10.14 |
+| LIG 넥스원 The SSEN 임베디드 SW 스쿨 | 수료 | 2025.06.30 |
 
 <br> <br>
 
